@@ -7,3 +7,6 @@
 [submodule "tools/ProperTree"]
 	path = tools/ProperTree
 	url = https://github.com/corpnewt/ProperTree
+[submodule "tools/GenSMBIOS"]
+	path = tools/GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS
