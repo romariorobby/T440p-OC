@@ -34,6 +34,11 @@ sudo spctl --master--disable
 ./install.sh
 ```
 - Reboot Your machine
+## Fn Keys
+To fix this you can install [ThinkpadAssistant](https://github.com/MSzturc/ThinkpadAssistant/releases/tag/v1.9.2.1)
+## FHD Screen
+If you have Full HD Screen. Install [One Key HiDPI](https://github.com/xzhih/one-key-hidpi)
+## Customizing About This Mac
 
 # TODO
-- [ ] Shortcut Key (Brightness, Volume)
+- [X] Shortcut Key (Brightness, Volume)
